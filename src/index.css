@@ -1,0 +1,10 @@
+@import 'style/fonts.css';
+
+
+body {
+    background-color: red;
+    
+}
+h1{
+    font-family: Montserrat;
+}
